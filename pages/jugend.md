@@ -24,7 +24,9 @@ Alle Informationen zu Turnieren am Freitag sind im [Terminplan](/files/terminpla
 Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf) und [Mittwochstraining](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf) sind den jeweiligen PDF's gesammelt.
 
 ## Aktuelles
+
 ### Einladung zur Jugendversammlung am 09.10.2026
+
 Am 09.10.2026 findet unsere Jugendversammlung statt. Wenn Ihr euch im Jugendvorstand engagieren möchtet, dann meldet euch!
 
 ### Jugendmannschaften 2026/27
@@ -34,17 +36,6 @@ Hier spielen unsere Jugendmannschaften in der aktuellen Saison:
 [**Übersicht aller Mannschaften 2026/27**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/clubTeams?club=10109)
 
 *Für Informationen zu den jeweiligen Mannschaftsleitern wenden Sie sich bitte an den Verein.*
-
-### Jugendmannschaften 2025/26 (Vorherige Saison)
-
-In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
-
-- [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
-- [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
-- [**Bezirksliga U14/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818199&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
-- [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818203&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
-- [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818075&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
-- [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818073&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
 
 ### Deutsche Vereinsmeisterschaften
 
@@ -77,6 +68,17 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 | [Jugend-Stadteinzelmeisterschaft Dresden 2025](https://s3.chess-results.com/tnr1238964.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 23.08.2025 – 24.08.2025 | Stadtmeisterschaft im Rathaus mit 82 Teilnehmern (17 Mädchen) |
 
 Ältere Turnierergebnisse sind im [Archiv](archiv#jugendturniere-archiv) zu finden.
+
+### Jugendmannschaften 2025/26 (Vorherige Saison)
+
+In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
+
+- [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
+- [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
+- [**Bezirksliga U14/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818199&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
+- [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818203&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
+- [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818075&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
+- [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818073&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
 
 ## Die Mädchen im Verein
 
