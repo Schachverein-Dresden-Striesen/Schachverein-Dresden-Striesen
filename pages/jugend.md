@@ -73,12 +73,20 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
 
+- [**Sachsen-Mannschafts-Meisterschaft U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1820542&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=5521)
 - [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
+- [**SMM-Endrunde U16w**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1820795&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4459)
+- [**SMM-Endrunde U14**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1820986&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=5801)
+- [**SMM-Endrunde U12**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1820965&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=5781)
+- [**SMM-Endrunde U12w**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1820791&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4456)
+- [**SMM-Endrunde U10**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1821365&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=6321)
 - [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
-- [**Bezirksliga U14/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818199&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
-- [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818203&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
-- [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818075&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
-- [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818073&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
+- [**Bezirksliga U14/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819846&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=5341)
+- [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819833&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=5342)
+- [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819782&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=4433)
+- [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819805&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=4431)
+- [**Bezirksliga U10**](https://loebauer-sv.de/jsbs-bl-u10-dresden-2025-26.html)
+
 
 ## Die Mädchen im Verein
 
