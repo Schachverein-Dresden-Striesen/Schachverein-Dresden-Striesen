@@ -52,7 +52,10 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 | [Jugend-Herbstmeisterschaft 2026](https://s3.chess-results.com/tnr1486078.aspx?lan=0&art=4&SNode=S0){:target="_blank"} | 28.08.2026 – 08.02.2027 | Langschach Turnier für Jahrgang 2007 und jünger zum Vereinsabend |
 | [Jugend-Stadteinzelmeisterschaft Dresden 2026](https://s1.chess-results.com/tnr1478755.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 22.08.2026 – 23.08.2026 | Stadtmeisterschaft im Rathaus mit 83 Teilnehmenden – ein vielfältiges Feld mit vielen Mädchen unter den Aktiven. |
 
-### Saison 2025/26 (Archiv)
+### Saison 2025/26
+
+<!-- markdownlint-disable-next-line no-inline-html -->
+<details markdown="1"> <summary markdown="span"><u>Klick: Zeige Tabelle der Turniere</u></summary>
 
 | Turnier | Zeitraum | Kommentar/Auswertung |
 | ------- | -------- | ---------- |
@@ -65,11 +68,16 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 | [Jugend-Herbst Dresden-Striesen 2025](https://s2.chess-results.com/tnr1238984.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 22.08.2025 – 30.01.2026 | [Endstand-PDF](</files/turniertabellen/2025-2026/Jugend-Herbst-2025-Endstand.pdf>) Herbstturnier der Jugend mit 72 Teilnehmern |
 | [Jugend-Stadteinzelmeisterschaft Dresden 2025](https://s3.chess-results.com/tnr1238964.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 23.08.2025 – 24.08.2025 | Stadtmeisterschaft im Rathaus mit 82 Teilnehmern (17 Mädchen) |
 
+</details>
+
 Ältere Turnierergebnisse sind im [Archiv](archiv#jugendturniere-archiv) zu finden.
 
 ### Jugendmannschaften 2025/26 (Vorherige Saison)
 
-In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
+<!-- markdownlint-disable-next-line no-inline-html -->
+<details markdown="1"> <summary markdown="span">Klick: Zeige Tabelle der Mannschaften</summary>
+
+In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen
 
 - [**Sachsen-Mannschafts-Meisterschaft U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1820542&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=5521)
 - [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
@@ -84,6 +92,8 @@ In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
 - [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819782&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=4433)
 - [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819805&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=4431)
 - [**Bezirksliga U10**](https://loebauer-sv.de/jsbs-bl-u10-dresden-2025-26.html)
+
+</details>
 
 ## Die Mädchen im Verein
 
