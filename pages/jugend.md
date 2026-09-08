@@ -11,11 +11,11 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
 ### Themen am Freitag
 
-- Einsteiger: König und Bauer gegen König
-- Fortgeschrittene: Zeit in der Eröffnung
+- Einsteiger: Bauernendspiele
+- Fortgeschrittene: Eröffnungsfallen
 
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
->
+
 Im Rahmen des Freitagstrainings gibt es ein Schnellschach- und Langschachturnier!
 Siehe auch: [→ Ausschreibungen Jugend](/ausschreibungen#jugendturniere)
 
@@ -24,6 +24,8 @@ Alle Informationen zu Turnieren am Freitag sind im [Terminplan](/files/terminpla
 Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf) und [Mittwochstraining](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf) sind den jeweiligen PDF's gesammelt.
 
 ## Aktuelles
+### Einladung zur Jugendversammlung am 09.10.2026
+Am 09.10.2026 findet unsere Jugendversammlung statt. Wenn Ihr euch im Jugendvorstand engagieren möchtet, dann meldet euch!
 
 ### Jugendmannschaften 2026/27
 
