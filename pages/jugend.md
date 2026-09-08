@@ -27,7 +27,7 @@ Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20F
 
 ### Einladung zur Jugendversammlung am 09.10.2026
 
-Am 09.10.2026 findet unsere Jugendversammlung statt. Wenn Ihr euch im Jugendvorstand engagieren möchtet, dann meldet euch!
+Am 09.10.2026 findet [unsere Jugendversammlung (Einladung+Tagesordnung)](/files/ausschreibungen/Einladung_Jugendversammlung_2026.pdf) statt. Wenn Ihr euch im Jugendvorstand bei der Organisation von kleinen (und großen) Projekten engagieren möchtet, dann meldet euch bei Alexander, Fabian, Philip, Leon, Markus oder Martin! 🙂
 
 ### Jugendmannschaften 2026/27
 
@@ -75,7 +75,7 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 ### Jugendmannschaften 2025/26 (Vorherige Saison)
 
 <!-- markdownlint-disable-next-line no-inline-html -->
-<details markdown="1"> <summary markdown="span">Klick: Zeige Tabelle der Mannschaften</summary>
+<details markdown="1"> <summary markdown="span"><u>Klick: Zeige Tabelle der Mannschaften</u></summary>
 
 In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen
 
