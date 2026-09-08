@@ -43,8 +43,6 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 [→ SV Dresden-Striesen Teilnahmen DVM](https://schach.in/sv-dresden-striesen)
 
----
-
 ## Jugendturniere
 
 ### Saison 2026/27
@@ -52,19 +50,19 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 | Turnier | Zeitraum | Kommentar |
 | ------- | -------- | ---------- |
 | [Jugend-Herbstmeisterschaft 2026](https://s3.chess-results.com/tnr1486078.aspx?lan=0&art=4&SNode=S0){:target="_blank"} | 28.08.2026 – 08.02.2027 | Langschach Turnier für Jahrgang 2007 und jünger zum Vereinsabend |
-| [Jugend-Stadteinzelmeisterschaft Dresden 2026](https://s1.chess-results.com/tnr1478755.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 22.08.2026 – 23.08.2026 | Stadtmeisterschaft im Rathaus mit 83 Teilnehmern (16 Mädchen) |
+| [Jugend-Stadteinzelmeisterschaft Dresden 2026](https://s1.chess-results.com/tnr1478755.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 22.08.2026 – 23.08.2026 | Stadtmeisterschaft im Rathaus mit 83 Teilnehmenden – ein vielfältiges Feld mit vielen Mädchen unter den Aktiven. |
 
 ### Saison 2025/26 (Archiv)
 
-| Turnier | Zeitraum | Kommentar |
+| Turnier | Zeitraum | Kommentar/Auswertung |
 | ------- | -------- | ---------- |
-| [Jugend-Frühling Dresden-Striesen 2026](https://s2.chess-results.com/tnr1360162.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 27.02. – 05.06.2026 | Frühlingsturnier der Jugend mit 70 Teilnehmern |
+| [Jugend-Frühling Dresden-Striesen 2026](https://s2.chess-results.com/tnr1360162.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 27.02. – 05.06.2026 | [Endstand-PDF](</files/turniertabellen/2025-2026/Jugend-Frühling-2026-Endstand.pdf>) Frühlingsturnier der Jugend mit 70 Teilnehmern |
 | [Tandem-Turnier Striesen Winter 2026](https://s2.chess-results.com/tnr1347913.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 06.02.2026 | Schnellschachturnier im Tandem-Format (7 min) |
-| [Jugend-Rangliste 2025/26](https://s2.chess-results.com/tnr1252302.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 29.08.2025 – 01.06.2026 | Vereinsinterne Jugend-Rangliste der Saison 2025/26 |
+| [Jugend-Rangliste 2025/26](https://s2.chess-results.com/tnr1252302.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 29.08.2025 – 01.06.2026 | [Endstand-PDF](</files/turniertabellen/2025-2026/JugendRangliste-Endstand25-26.pdf>) Jugend-Rangliste Schnellschach der Saison 2025/26 |
 | [Weihnachtsblitzturnier 2025](https://s2.chess-results.com/tnr1319971.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 19.12.2025 | Offenes Blitzturnier (5 min), 14 Teilnehmer |
 | [Tandem-Turnier Striesen Weihnachten 2025](https://s2.chess-results.com/tnr1319807.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 19.12.2025 | Weihnachtliches Tandem-Turnier (7 min), 25 Teilnehmer |
 | [Adventsturnier 2025](https://s2.chess-results.com/tnr1311906.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 05.12.2025 | Adventsturnier der Jugend (10'+15''), 40 Teilnehmer |
-| [Jugend-Herbst Dresden-Striesen 2025](https://s2.chess-results.com/tnr1238984.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 22.08.2025 – 30.01.2026 | Herbstturnier der Jugend mit 72 Teilnehmern |
+| [Jugend-Herbst Dresden-Striesen 2025](https://s2.chess-results.com/tnr1238984.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 22.08.2025 – 30.01.2026 | [Endstand-PDF](</files/turniertabellen/2025-2026/Jugend-Herbst-2025-Endstand.pdf>) Herbstturnier der Jugend mit 72 Teilnehmern |
 | [Jugend-Stadteinzelmeisterschaft Dresden 2025](https://s3.chess-results.com/tnr1238964.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 23.08.2025 – 24.08.2025 | Stadtmeisterschaft im Rathaus mit 82 Teilnehmern (17 Mädchen) |
 
 Ältere Turnierergebnisse sind im [Archiv](archiv#jugendturniere-archiv) zu finden.
@@ -86,7 +84,6 @@ In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
 - [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819782&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=4433)
 - [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1819805&pageState=rueckrunde&championship=Dresden+Jugend+25%2F26&group=4431)
 - [**Bezirksliga U10**](https://loebauer-sv.de/jsbs-bl-u10-dresden-2025-26.html)
-
 
 ## Die Mädchen im Verein
 
