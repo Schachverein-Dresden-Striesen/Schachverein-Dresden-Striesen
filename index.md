@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.3"
   caption: "Traditionsreicher Schachverein seit über 100 Jahren"
   actions:
-    - label: "Trainingszeiten"
+    - label: "Termine"
       url: "/terminplaene"
 excerpt: "Willkommen beim Schachverein Dresden-Striesen e.V. – hier finden Sie die wichtigsten Informationen auf einen Blick."
 intro:
@@ -30,8 +30,11 @@ feature_row:
 feature_row_info:
   - title: "Vereinsabend"
     excerpt: "Freitags 16:30–21:30 Uhr im Manos (Raum 020). Viele Mitglieder sind ab 18:00 Uhr vor Ort."
-  - title: "Kontakt"
-    excerpt: "Bei Fragen oder Interesse freuen wir uns über Ihre Nachricht."
+    url: "/terminplaene"
+    btn_label: "Alle Termine"
+    btn_class: "btn--inverse"
+  - title: "Vorstand & Kontakt"
+    excerpt: "Kontaktmöglichkeiten und Ansprechpartner finden Sie auf der Vorstandsseite."
     url: "/vorstand"
     btn_label: "Zum Vorstand"
     btn_class: "btn--inverse"
@@ -41,4 +44,4 @@ feature_row_info:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row_info" type="left" %}
+{% include feature_row id="feature_row_info" type="half" %}
